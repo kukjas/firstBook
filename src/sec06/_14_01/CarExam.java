@@ -17,7 +17,6 @@ public class CarExam {
 			myCar.setStop(true);
 		}
 		
-		
 		System.out.println("speed is " + myCar.getSpeed());
 	}
 }
