@@ -21,6 +21,7 @@ public class Ex08 {
 				sum = sum + array[i][j];
 			}
 		}
+		
 		avg = (double)sum / a;
 		
 		System.out.println("sum = " + sum);
